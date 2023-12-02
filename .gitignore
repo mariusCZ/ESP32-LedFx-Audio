@@ -1,0 +1,6 @@
+/.devcontainer
+/.vscode
+/build
+/components
+/dependencies.lock
+/managed_components
