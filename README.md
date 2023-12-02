@@ -4,3 +4,6 @@ This is a ESP32 based device which can take line level stereo audio and send it 
 Without having electronics knowledge, this may be somewhat harder to set up. However, this does not use any I2S line level ADCs, because they are quite rare.
 # Set up
 WIP
+
+# Circuit
+![circuit](https://github.com/mariusCZ/ESP32-LedFx-Audio/blob/main/hardware/schematic.png)
